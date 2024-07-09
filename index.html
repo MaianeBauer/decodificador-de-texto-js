@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="styles/styles.css" />
+  <link rel="icon" href="./img/Logotipo empresa de programação sistemas e tecnologia.png" />
+  <title>Decodificador de Texto</title>
+</head>
+
+<body>
+  <main class="container-main">
+    <header class="container-main-header">
+      <img src="./img/Logotipo empresa de programação sistemas e tecnologia.png" alt="logo" />
+      <div class="container">
+        <div class="bolhas">
+          <span style="--i: 12"></span>
+          <span style="--i: 19"></span>
+          <span style="--i: 15"></span>
+          <span style="--i: 9"></span>
+          <span style="--i: 18"></span>
+          <span style="--i: 1"></span>
+        </div>
+        <h1>Decodificador de Texto</h1>
+      </div>
+    </header>
+
+    <div class="container-input">
+      <div class="input">
+        <textarea id="input-texto" placeholder="Digite o seu texto aqui..."></textarea>
+        <p>Apenas letras minúsculas e sem acento.</p>
+      </div>
+
+      <div id="output">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <img src="./img/fundo.jpg" alt="imagem da caixa do texto" />
+        <h2>Nenhuma mensagem encontrada</h2>
+        <span>Digite um texto que você deseja criptografar ou
+          descriptografar.</span>
+      </div>
+    </div>
+    <div class="buttons">
+      <div class="container-bnt">
+        <button onclick="criptografar()" class="bnt-criptografar">
+          Criptografar
+        </button>
+        <button onclick="descriptografar()" class="bnt-descriptografar">
+          Descriptografar
+        </button>
+      </div>
+    </div>
+  </main>
+  <footer class="rodape">
+    <div class="icons">
+      <a href="https://www.linkedin.com/in/maiane-bauer-897b28189/" target="_blank"><ion-icon
+          name="logo-linkedin"></ion-icon></a>
+      <a href="https://github.com/MaianeBauer" target="_blank"><ion-icon name="logo-github"></ion-icon></a>
+      <a href="https://www.instagram.com/maianebauer/" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
+      <a href="https://api.whatsapp.com/send?phone=555499931905&text=Ol%C3%A1,%20vim%20pelo%20seu%20Decodificador%20de%20texto"
+        target="_blank"><ion-icon name="logo-whatsapp"></ion-icon></a>
+    </div>
+    <p>Desenvolvido com ❤️ por</p>
+    <p>Maiane Bauer © 2024</p>
+  </footer>
+
+  <script src="./script/script.js"></script>
+  <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+
+</html>
