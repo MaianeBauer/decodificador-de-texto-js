@@ -12,17 +12,13 @@ Permite aos usuários codificarem e decodificarem textos utilizando um algoritmo
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-
-
-
 <br>
-
+<br>
   <div align="center">
-    <a target="_blank" href="#">
-    <img width="90%" src="" alt="Challenge">
-    </a>
+    <a target="_blank" href="https://decodificador-de-texto-peach.vercel.app/">
+    <img width="10%" src="https://github.com/MaianeBauer/decodificador-de-texto-js/assets/142107409/3d3100a9-dec0-49ce-8efc-d5b759f0aab4" alt="Challenge
+      </a>
   </div>
-
 <br>
 <br>
 
@@ -69,7 +65,11 @@ Suporte a vários navegadores: A biblioteca funciona em todos os navegadores mod
 🚀❤ 👩‍💻
 
 ## 🔖 Layout
-imagens
+
+
+https://github.com/MaianeBauer/decodificador-de-texto-js/assets/142107409/f2dcce60-82e5-4653-b99d-506cdb5a0e6d
+
+
 
 
 
