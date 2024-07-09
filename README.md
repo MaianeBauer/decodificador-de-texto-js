@@ -36,8 +36,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="David-Figma" height="30" width="55" src=" https://img.shields.io/badge/figma-white?logo=figma">
-   <img align="center" alt="David-Figma" height="30" width="65" src="  https://img.shields.io/badge/github-black?logo=GitHub">
+  <img align="center" alt="David-Figma" height="30" width="55" src="https://img.shields.io/badge/figma-white?logo=figma">
+  <img align="center" alt="David-Figma" height="30" width="65" src="https://img.shields.io/badge/github-black?logo=GitHub">
 <hr
 </div>
 ## 💻 Projeto
